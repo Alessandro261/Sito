@@ -1,0 +1,110 @@
+.immagine{
+  background: white;
+  height: 400px;
+  width: 300px;
+  border-radius: 10px;
+  position: absolute;
+  right: 8%;
+  top: 20%;
+}
+
+.dio{
+  position: absolute;
+  left: 7%;
+  bottom: 5%
+}
+.preferiti{
+  background: white;
+  height: 500px;
+  width: 400px;
+  border-radius: 10px;
+  position: absolute;
+  top: 20%;
+  left: 1%;
+}
+
+#io{
+  align-content: center;
+}
+
+#linea{
+  position: absolute;
+  left: 0;
+  right: 0;
+}
+
+
+.contenitore1{
+  background: white;
+  height: 700px;
+  width: 900px;
+  position: absolute;
+  right: 26%;
+  top: 17%;
+  border-radius: 10px;
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+}
+
+.gg{
+  position: absolute;
+  left: 5%;
+}
+
+#testo{
+  position: absolute;
+  left: 5%;
+  right: 5%;
+}
+
+#testo1{
+  position: absolute;
+  left:5%;
+  right: 5%;
+  top: 55%
+}
+
+#immaginennloso{
+  position: absolute;
+    left: 5%;
+  top: 70%
+}
+
+#immaginennloso1{
+  position: absolute;
+  top: 25%;
+  left: 5%;
+}
+
+.hobby{
+  background: white;
+  height: 300px;
+  width: 300px;
+  position: absolute;
+  right: 8%;
+  top: 65%;
+  border-radius: 10px;
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+}
+
+#hobbytesto{
+  position: absolute;
+  right: 5%;
+  left: 5%;
+}
+
+#amazon{
+  height: 60px;
+  width: 90px;
+  position: absolute;
+  top: 75%;
+  right: 5%;
+}
+#spotify{
+  height: 60px;
+  width: 110px;
+  position: absolute;
+  top: 75%;
+  left: 5%;
+}
